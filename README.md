@@ -9,7 +9,12 @@ Submitted by: **Hristiyan Minchev**
 --- The following **required** functionality is complete:
  
 Day 1:
-* [x] Created Level
-* [ ] Created Player
-* [ ] Created Level
+* [x] Created Game window
+* [x] Created Level	
+	* [x] Created Map
+* [x] Created Player
+	* [x] Created Movement
+	* [x] Created Collision
+* [ ] Created Camera
+
  
