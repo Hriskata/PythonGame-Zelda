@@ -2,7 +2,7 @@
 
 **My Zelda** is a mini RPG game.
 
-Submitted by: **Hristiyan Minchev
+Submitted by: **Hristiyan Minchev**
 
 ## User Stories
 
