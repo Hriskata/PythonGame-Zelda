@@ -1,8 +1,8 @@
-# python_game - * My Zelda *
+# python_game - *My Zelda*
 
-** My Zelda ** is a mini RPG game.
+**My Zelda** is a mini RPG game.
 
-Submitted by: ** Hristiyan Minchev
+Submitted by: **Hristiyan Minchev
 
 ## User Stories
 
