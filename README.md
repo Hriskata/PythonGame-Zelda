@@ -15,6 +15,6 @@ Day 1:
 * [x] Creat Player 🦸‍
 	* [x] Creat Movement 🚶
 	* [x] Creat Collision 💥
-* [ ] Creat Camera 📸
+* [x] Creat Camera 📸
 
  
