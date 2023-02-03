@@ -16,5 +16,5 @@ Day 1:
 	* [x] Creat Movement 🚶
 	* [x] Creat Collision 💥
 * [x] Creat Camera 📸
-
+	* [x] Creat Overlapping 🚶
  
