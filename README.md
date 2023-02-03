@@ -19,4 +19,6 @@ Day 1:
 Day 2:
 * [x] Creat Camera 📸
 	* [x] Creat Overlapping 🚶
+* [x] Creat Graphics 
+	* [x] Creat bottom floor 
  
