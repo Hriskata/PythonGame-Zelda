@@ -20,6 +20,12 @@ Day 2:
 * [x] Creat Camera 📸
 	* [x] Creat Overlapping 🚶
 * [x] Creat Graphics 
-	* [x] Creat bottom floor 
-	* [x] Creat grass floor 
+	* [x] Creat Bottom floor 
+	* [x] Creat Grass floor 
  
+Day 3:
+* [x] Creat Attack
+	* [x] Creat Normal attack 🔪
+	* [x] Creat Magic attack ✨
+
+* [] Creat Attack animations
