@@ -27,4 +27,6 @@ Day 3:
 * [x] Creat Attack
 	* [x] Creat Normal attack 🔪
 	* [x] Creat Magic attack ✨
-* [ ] Creat Attack animations
+* [x] Creat Attack animations
+	* [x] Creat Normal attack animation 🔪
+	* [x] Creat Magic attack animation ✨
